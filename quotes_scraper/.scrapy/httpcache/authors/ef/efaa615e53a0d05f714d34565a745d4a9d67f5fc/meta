@@ -1,0 +1,1 @@
+{'url': 'http://quotes.toscrape.com/author/John-Lennon/', 'method': 'GET', 'status': 200, 'response_url': 'http://quotes.toscrape.com/author/John-Lennon/', 'timestamp': 1724595377.0049968}
